@@ -3,6 +3,7 @@ Monitoring system using Raspberry Pi
 
 Grand Plan: 
   Video Capture:
+  
     1. Fix Framerate issues
     2. Investigate NMAL/OpenMAX for access to GPU 
       see https://github.com/gagle/raspberrypi-omxcam  or http://elinux.org/Raspberry_Pi_VideoCore_APIs  for more details
@@ -10,6 +11,7 @@ Grand Plan:
     4. Some image processing maybe cool to play with here. possibly after 2. is done.
     
   Telemetry system:
+  
     1. Gyro scope interface
     2. Accelerometer
     3. GPS (uart adafruit breakout)
